@@ -25,7 +25,7 @@ A comprehensive full-stack Task Management application designed to help users st
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS / Bootstrap |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB / SQL (Jispe bhi aapka project chal raha ho) |
+| **Database** | MongoDB / SQL |
 
 ---
 
