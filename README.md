@@ -37,3 +37,11 @@ Follow these steps to run the project locally on your system:
 ```bash
 git clone [https://github.com/gaurav-kumar8445/task-management-assignment.git](https://github.com/gaurav-kumar8445/task-management-assignment.git)
 cd task-management-assignment
+
+
+---
+
+## 📸 Application Screenshots
+
+### Main Workspace Dashboard
+![Dashboard](https://github.com/user-attachments/assets/62903ab4-9400-4444-8b4f-140207842255)
