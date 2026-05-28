@@ -25,7 +25,7 @@ A comprehensive full-stack Task Management application designed to help users st
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS / Bootstrap |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB / SQL (Jispe bhi aapka project chal raha ho) |
+| **Database** | MongoDB / SQL |
 
 ---
 
@@ -37,11 +37,3 @@ Follow these steps to run the project locally on your system:
 ```bash
 git clone [https://github.com/gaurav-kumar8445/task-management-assignment.git](https://github.com/gaurav-kumar8445/task-management-assignment.git)
 cd task-management-assignment
-
-
----
-
-## 📸 Application Screenshots
-
-### Main Workspace Dashboard
-![Dashboard]('https://github.com/gaurav-kumar8445/task-manager-assignment/blob/main/Screenshot%20(291).png')
